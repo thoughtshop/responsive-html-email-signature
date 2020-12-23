@@ -115,7 +115,7 @@ a {
 }
 
 .footer--simple {
-  padding-bottom: 5px;
+  padding-bottom: 10px;
   background-color: #ffffff;
   color: #000000;
 }
@@ -184,7 +184,7 @@ a {
 
 h2 {
   letter-spacing: 5px;
-  margin-bottom: 10px !important;
+  margin-bottom: 2px !important;
   font-weight: 300;
 }
 
@@ -201,6 +201,10 @@ strong {
   font-weight: 700;
 }
 
-a {
-  letter-spacing: 2px;
+.info {
+  font-size: 10px;
+}
+
+.numbers {
+  letter-spacing: 1px;
 }
