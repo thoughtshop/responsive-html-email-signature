@@ -1,0 +1,34 @@
+[
+  {
+    "id": "connor",
+    "name": "CONNOR&nbsp;GROSSKOPF",
+    "position": "DIRECTOR,&nbsp;MORTGAGE&nbsp;INVESTMENTS",
+    "direct": "604.336.6787",
+    "mobile": "604.317.2997",
+    "emailNoDomain": "cgrosskopf"
+  },
+  {
+    "id": "ray",
+    "name": "RAY&nbsp;NG",
+    "position": "EXECUTIVE&nbsp;VICE&nbsp;PRESIDENT,&nbsp;FINANCE",
+    "direct": "604.694.7453",
+    "mobile": "604.833.8303",
+    "emailNoDomain": "ng"
+  },
+  {
+    "id": "john",
+    "name": "JOHN&nbsp;HORTON",
+    "position": "PRESIDENT&nbsp;+&nbsp;CEO",
+    "direct": "604.694.2160",
+    "mobile": "604.862.2766",
+    "emailNoDomain": "horton"
+  },
+  {
+    "id": "brad",
+    "name": "BRAD&nbsp;STOKES",
+    "position": "CHIEF OPERATING OFFICER",
+    "direct": "604.694.2160",
+    "mobile": "604.312.4472",
+    "emailNoDomain": "stokes"
+  }
+]
