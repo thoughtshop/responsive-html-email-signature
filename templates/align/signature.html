@@ -1,0 +1,26 @@
+<!-- @include head.inc.html -->
+
+<body>
+  <br />
+  <!-- <br/> Makes it easier to add text when composing -->
+
+  <table class="main rbcc">
+    <tr>
+      <td class="footer--simple" align="left">
+        <strong
+          ><h2><!-- @echo name --></h2></strong
+        >
+        <a href="tel:<!--@echo telephone-->"
+          ><span><!-- @echo telephone--></span></a
+        ><br />
+        <a href="mailto:<!--@echo emailNoDomain-->@alignproperties.com" target="blank"
+          ><!--@echo emailNoDomain--><strong>@alignproperties.com</strong></a
+        >
+      </td>
+    </tr>
+
+    <tr class="rbcc">
+      <!-- @include footer.inc.html -->
+    </tr>
+  </table>
+</body>

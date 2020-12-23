@@ -1,0 +1,56 @@
+[
+  {
+    "id": "john",
+    "name": "JOHN&nbsp;LIANG",
+    "telephone": "778.858.9898",
+    "emailNoDomain": "john"
+  },
+  {
+    "id": "alex",
+    "name": "ALEX&nbsp;LIANG",
+    "telephone": "604.336.6787",
+    "emailNoDomain": "alex"
+  },
+  {
+    "id": "qishu",
+    "name": "QISHU&nbsp;CHEN",
+    "telephone": "604.336.6787",
+    "emailNoDomain": "qishu"
+  },
+  {
+    "id": "selin",
+    "name": "SELIN&nbsp;YU",
+    "telephone": "604.336.6787",
+    "emailNoDomain": "selin"
+  },
+  {
+    "id": "mike",
+    "name": "Mike&nbsp;QIU",
+    "telephone": "604.336.6787",
+    "emailNoDomain": "mike"
+  },
+  {
+    "id": "annina",
+    "name": "ANNINA&nbsp;ZHONG",
+    "telephone": "604.336.6787",
+    "emailNoDomain": "annina"
+  },
+  {
+    "id": "katherine",
+    "name": "KATHERINE&nbsp;SONG",
+    "telephone": "604.336.6787",
+    "emailNoDomain": "katherine"
+  },
+  {
+    "id": "tom",
+    "name": "THOMAS&nbsp;J&nbsp;ALMAS",
+    "telephone": "604.336.6787",
+    "emailNoDomain": "tom"
+  },
+  {
+    "id": "jonathan",
+    "name": "JONATHAN&nbsp;ALMAS",
+    "telephone": "604.336.6787",
+    "emailNoDomain": "jonathan"
+  }
+]
